@@ -1,0 +1,5 @@
+main.js => ini adalah game gunting batu kertas dengan menggunakan logic sederhana dan saat berinteraksi dengan user, kita menggunakan terminal untuk berinteraksi nya.
+
+RPS.js => 
+
+multiplayer.js =>
